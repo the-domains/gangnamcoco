@@ -1,0 +1,28 @@
+name: Gangnamcoco
+favicon: null
+layout_spectrum: 0.43448051530867815
+typography_spectrum: 0.8185668552760035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.715566364582628
+  lightness: 0.7884555859491229
+  saturation: 0.9890992129221559
+  rhythmicContrast: 0.508987563662231
+purpose: []
